@@ -2,16 +2,16 @@
 ;	File 'mdout.mdp' was generated
 ;	By user: unknown (1000)
 ;	On host: ShuMus
-;	At date: Fri May  8 23:02:33 2026
+;	At date: Fri May  8 23:02:38 2026
 ;
 ;	Created by:
 ;	                     :-) GROMACS - gmx grompp, 2024.3 (-:
 ;	
 ;	Executable:   /usr/local/gromacs/bin/gmx
 ;	Data prefix:  /usr/local/gromacs
-;	Working dir:  /mnt/c/Users/ashra/OneDrive/Desktop/LIPID MEMBRANE/mdsimulationpeptidemembrane/sim_run/ions
+;	Working dir:  /mnt/c/Users/ashra/OneDrive/Desktop/LIPID MEMBRANE/mdsimulationpeptidemembrane/sim_run/em
 ;	Command line:
-;	  gmx grompp -f ions.mdp -c ../em/em.gro -p ../topology/topol.top -o ions.tpr -maxwarn 5
+;	  gmx grompp -f em.mdp -c em2.gro -p ../topology/topol.top -o /tmp/charge_check.tpr -maxwarn 5
 
 ; VARIOUS PREPROCESSING OPTIONS
 ; Preprocessor information: use cpp syntax.
@@ -25,7 +25,7 @@ integrator               = steep
 ; Start time and timestep in ps
 tinit                    = 0
 dt                       = 0.001
-nsteps                   = 0
+nsteps                   = 50000
 ; For exact run continuation or redoing part of a run
 init-step                = 0
 ; Part index is updated automatically on checkpointing (keeps files separate)
@@ -48,7 +48,7 @@ ld-seed                  = -1
 
 ; ENERGY MINIMIZATION OPTIONS
 ; Force tolerance and initial step-size
-emtol                    = 10
+emtol                    = 1000.0
 emstep                   = 0.01
 ; Max number of iterations in relax-shells
 niter                    = 20
@@ -108,9 +108,9 @@ epsilon-r                = 1
 epsilon-rf               = 0
 ; Method for doing Van der Waals
 vdwtype                  = Cut-off
-vdw-modifier             = Potential-shift-Verlet
+vdw-modifier             = Force-switch
 ; cut-off lengths       
-rvdw-switch              = 0
+rvdw-switch              = 1.0
 rvdw                     = 1.2
 ; Apply long range dispersion corrections for Energy and Pressure
 DispCorr                 = no
@@ -175,7 +175,7 @@ annealing-temp           =
 ; GENERATE VELOCITIES FOR STARTUP RUN
 gen-vel                  = no
 gen-temp                 = 300
-gen-seed                 = 1542804927
+gen-seed                 = -1778401797
 
 ; OPTIONS FOR BONDS    
 constraints              = none
