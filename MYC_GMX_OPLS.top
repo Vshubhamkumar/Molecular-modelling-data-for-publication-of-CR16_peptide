@@ -1,0 +1,19 @@
+; MYC_GMX_OPLS.top created by acpype (v: 2023.10.27) on Fri May  8 22:45:17 2026
+
+; Include forcefield parameters
+#include "ffoplsaa.itp"
+
+; Include MYC_GMX.itp topology
+#include "MYC_GMX.itp"
+
+; Ligand position restraints
+#ifdef POSRES_LIG
+#include "posre_MYC.itp"
+#endif
+
+[ system ]
+ MYC
+
+[ molecules ]
+; Compound        nmols
+ MYC              1     

@@ -1,0 +1,1001 @@
+====================================================================================
+-------------------------------ring property (I)------------------------------------
+
+               Ring 1               
+
+    1     1    62   C60
+    1     2    64   C58
+    1     3    66   C59
+
+               Ring 2               
+
+    2     1   111   C18
+    2     2   113   C17
+    2     3   115   C19
+
+====================================================================================
+-------------------------------ring property (II)------------------------------------
+atom[62] (C60 ) belongs to one member of 3-membered  ring (No  1)
+atom[64] (C58 ) belongs to one member of 3-membered  ring (No  1)
+atom[66] (C59 ) belongs to one member of 3-membered  ring (No  1)
+atom[111] (C18 ) belongs to one member of 3-membered  ring (No  2)
+atom[113] (C17 ) belongs to one member of 3-membered  ring (No  2)
+atom[115] (C19 ) belongs to one member of 3-membered  ring (No  2)
+
+====================================================================================
+-------------------------------ring property (III)-----------------------------------
+atom[ 1] (HH15) is not in any ring (nr[1]=1)
+atom[ 2] (C80 ) is not in any ring (nr[2]=1)
+atom[ 3] (H100) is not in any ring (nr[3]=1)
+atom[ 4] (H101) is not in any ring (nr[4]=1)
+atom[ 5] (C79 ) is not in any ring (nr[5]=1)
+atom[ 6] (H102) is not in any ring (nr[6]=1)
+atom[ 7] (H103) is not in any ring (nr[7]=1)
+atom[ 8] (C78 ) is not in any ring (nr[8]=1)
+atom[ 9] (HH14) is not in any ring (nr[9]=1)
+atom[10] (H104) is not in any ring (nr[10]=1)
+atom[11] (C77 ) is not in any ring (nr[11]=1)
+atom[12] (H106) is not in any ring (nr[12]=1)
+atom[13] (H107) is not in any ring (nr[13]=1)
+atom[14] (C76 ) is not in any ring (nr[14]=1)
+atom[15] (H108) is not in any ring (nr[15]=1)
+atom[16] (H109) is not in any ring (nr[16]=1)
+atom[17] (C75 ) is not in any ring (nr[17]=1)
+atom[18] (H110) is not in any ring (nr[18]=1)
+atom[19] (H111) is not in any ring (nr[19]=1)
+atom[20] (C74 ) is not in any ring (nr[20]=1)
+atom[21] (H112) is not in any ring (nr[21]=1)
+atom[22] (H113) is not in any ring (nr[22]=1)
+atom[23] (C73 ) is not in any ring (nr[23]=1)
+atom[24] (HH13) is not in any ring (nr[24]=1)
+atom[25] (H114) is not in any ring (nr[25]=1)
+atom[26] (C72 ) is not in any ring (nr[26]=1)
+atom[27] (H115) is not in any ring (nr[27]=1)
+atom[28] (H116) is not in any ring (nr[28]=1)
+atom[29] (C71 ) is not in any ring (nr[29]=1)
+atom[30] (H117) is not in any ring (nr[30]=1)
+atom[31] (H118) is not in any ring (nr[31]=1)
+atom[32] (C70 ) is not in any ring (nr[32]=1)
+atom[33] (H119) is not in any ring (nr[33]=1)
+atom[34] (H120) is not in any ring (nr[34]=1)
+atom[35] (C69 ) is not in any ring (nr[35]=1)
+atom[36] (H121) is not in any ring (nr[36]=1)
+atom[37] (H122) is not in any ring (nr[37]=1)
+atom[38] (C68 ) is not in any ring (nr[38]=1)
+atom[39] (HH12) is not in any ring (nr[39]=1)
+atom[40] (H123) is not in any ring (nr[40]=1)
+atom[41] (C67 ) is not in any ring (nr[41]=1)
+atom[42] (H124) is not in any ring (nr[42]=1)
+atom[43] (H125) is not in any ring (nr[43]=1)
+atom[44] (C66 ) is not in any ring (nr[44]=1)
+atom[45] (H126) is not in any ring (nr[45]=1)
+atom[46] (H127) is not in any ring (nr[46]=1)
+atom[47] (C65 ) is not in any ring (nr[47]=1)
+atom[48] (H128) is not in any ring (nr[48]=1)
+atom[49] (H129) is not in any ring (nr[49]=1)
+atom[50] (C64 ) is not in any ring (nr[50]=1)
+atom[51] (H130) is not in any ring (nr[51]=1)
+atom[52] (H131) is not in any ring (nr[52]=1)
+atom[53] (C63 ) is not in any ring (nr[53]=1)
+atom[54] (HH11) is not in any ring (nr[54]=1)
+atom[55] (H132) is not in any ring (nr[55]=1)
+atom[56] (C62 ) is not in any ring (nr[56]=1)
+atom[57] (H133) is not in any ring (nr[57]=1)
+atom[58] (H134) is not in any ring (nr[58]=1)
+atom[59] (C61 ) is not in any ring (nr[59]=1)
+atom[60] (H135) is not in any ring (nr[60]=1)
+atom[61] (H136) is not in any ring (nr[61]=1)
+atom[62] (C60 ) involves in 1 3-member of ring(s)
+atom[63] (H137) is not in any ring (nr[63]=1)
+atom[64] (C58 ) involves in 1 3-member of ring(s)
+atom[65] (H138) is not in any ring (nr[65]=1)
+atom[66] (C59 ) involves in 1 3-member of ring(s)
+atom[67] (H139) is not in any ring (nr[67]=1)
+atom[68] (H140) is not in any ring (nr[68]=1)
+atom[69] (C57 ) is not in any ring (nr[69]=1)
+atom[70] (HH10) is not in any ring (nr[70]=1)
+atom[71] (H141) is not in any ring (nr[71]=1)
+atom[72] (C56 ) is not in any ring (nr[72]=1)
+atom[73] (H142) is not in any ring (nr[73]=1)
+atom[74] (H143) is not in any ring (nr[74]=1)
+atom[75] (C55 ) is not in any ring (nr[75]=1)
+atom[76] (H144) is not in any ring (nr[76]=1)
+atom[77] (H145) is not in any ring (nr[77]=1)
+atom[78] (C54 ) is not in any ring (nr[78]=1)
+atom[79] (H146) is not in any ring (nr[79]=1)
+atom[80] (H147) is not in any ring (nr[80]=1)
+atom[81] (C53 ) is not in any ring (nr[81]=1)
+atom[82] (H148) is not in any ring (nr[82]=1)
+atom[83] (H149) is not in any ring (nr[83]=1)
+atom[84] (C52 ) is not in any ring (nr[84]=1)
+atom[85] (H99 ) is not in any ring (nr[85]=1)
+atom[86] (H150) is not in any ring (nr[86]=1)
+atom[87] (C51 ) is not in any ring (nr[87]=1)
+atom[88] (H97 ) is not in any ring (nr[88]=1)
+atom[89] (H98 ) is not in any ring (nr[89]=1)
+atom[90] (C50 ) is not in any ring (nr[90]=1)
+atom[91] (H95 ) is not in any ring (nr[91]=1)
+atom[92] (H96 ) is not in any ring (nr[92]=1)
+atom[93] (C49 ) is not in any ring (nr[93]=1)
+atom[94] (H93 ) is not in any ring (nr[94]=1)
+atom[95] (H94 ) is not in any ring (nr[95]=1)
+atom[96] (C48 ) is not in any ring (nr[96]=1)
+atom[97] (H91 ) is not in any ring (nr[97]=1)
+atom[98] (H92 ) is not in any ring (nr[98]=1)
+atom[99] (C47 ) is not in any ring (nr[99]=1)
+atom[100] (H89 ) is not in any ring (nr[100]=1)
+atom[101] (H90 ) is not in any ring (nr[101]=1)
+atom[102] (C46 ) is not in any ring (nr[102]=1)
+atom[103] (H87 ) is not in any ring (nr[103]=1)
+atom[104] (H88 ) is not in any ring (nr[104]=1)
+atom[105] (C45 ) is not in any ring (nr[105]=1)
+atom[106] (H85 ) is not in any ring (nr[106]=1)
+atom[107] (H86 ) is not in any ring (nr[107]=1)
+atom[108] (C44 ) is not in any ring (nr[108]=1)
+atom[109] (H83 ) is not in any ring (nr[109]=1)
+atom[110] (H84 ) is not in any ring (nr[110]=1)
+atom[111] (C18 ) involves in 1 3-member of ring(s)
+atom[112] (H31 ) is not in any ring (nr[112]=1)
+atom[113] (C17 ) involves in 1 3-member of ring(s)
+atom[114] (H30 ) is not in any ring (nr[114]=1)
+atom[115] (C19 ) involves in 1 3-member of ring(s)
+atom[116] (H32 ) is not in any ring (nr[116]=1)
+atom[117] (H33 ) is not in any ring (nr[117]=1)
+atom[118] (C16 ) is not in any ring (nr[118]=1)
+atom[119] (H28 ) is not in any ring (nr[119]=1)
+atom[120] (H29 ) is not in any ring (nr[120]=1)
+atom[121] (C15 ) is not in any ring (nr[121]=1)
+atom[122] (H26 ) is not in any ring (nr[122]=1)
+atom[123] (H27 ) is not in any ring (nr[123]=1)
+atom[124] (C14 ) is not in any ring (nr[124]=1)
+atom[125] (H24 ) is not in any ring (nr[125]=1)
+atom[126] (H25 ) is not in any ring (nr[126]=1)
+atom[127] (C13 ) is not in any ring (nr[127]=1)
+atom[128] (H22 ) is not in any ring (nr[128]=1)
+atom[129] (H23 ) is not in any ring (nr[129]=1)
+atom[130] (C12 ) is not in any ring (nr[130]=1)
+atom[131] (H20 ) is not in any ring (nr[131]=1)
+atom[132] (H21 ) is not in any ring (nr[132]=1)
+atom[133] (C11 ) is not in any ring (nr[133]=1)
+atom[134] (H18 ) is not in any ring (nr[134]=1)
+atom[135] (H19 ) is not in any ring (nr[135]=1)
+atom[136] (C10 ) is not in any ring (nr[136]=1)
+atom[137] (H16 ) is not in any ring (nr[137]=1)
+atom[138] (H17 ) is not in any ring (nr[138]=1)
+atom[139] (C9  ) is not in any ring (nr[139]=1)
+atom[140] (H14 ) is not in any ring (nr[140]=1)
+atom[141] (H15 ) is not in any ring (nr[141]=1)
+atom[142] (C8  ) is not in any ring (nr[142]=1)
+atom[143] (H12 ) is not in any ring (nr[143]=1)
+atom[144] (H13 ) is not in any ring (nr[144]=1)
+atom[145] (C7  ) is not in any ring (nr[145]=1)
+atom[146] (H10 ) is not in any ring (nr[146]=1)
+atom[147] (H11 ) is not in any ring (nr[147]=1)
+atom[148] (C6  ) is not in any ring (nr[148]=1)
+atom[149] (H8  ) is not in any ring (nr[149]=1)
+atom[150] (H9  ) is not in any ring (nr[150]=1)
+atom[151] (C5  ) is not in any ring (nr[151]=1)
+atom[152] (H6  ) is not in any ring (nr[152]=1)
+atom[153] (H7  ) is not in any ring (nr[153]=1)
+atom[154] (C4  ) is not in any ring (nr[154]=1)
+atom[155] (H4  ) is not in any ring (nr[155]=1)
+atom[156] (H5  ) is not in any ring (nr[156]=1)
+atom[157] (C2  ) is not in any ring (nr[157]=1)
+atom[158] (H2  ) is not in any ring (nr[158]=1)
+atom[159] (O3  ) is not in any ring (nr[159]=1)
+atom[160] (H3  ) is not in any ring (nr[160]=1)
+atom[161] (C1  ) is not in any ring (nr[161]=1)
+atom[162] (H1  ) is not in any ring (nr[162]=1)
+atom[163] (C81 ) is not in any ring (nr[163]=1)
+atom[164] (O82 ) is not in any ring (nr[164]=1)
+atom[165] (O83 ) is not in any ring (nr[165]=1)
+atom[166] (H105) is not in any ring (nr[166]=1)
+atom[167] (C20 ) is not in any ring (nr[167]=1)
+atom[168] (H34 ) is not in any ring (nr[168]=1)
+atom[169] (H35 ) is not in any ring (nr[169]=1)
+atom[170] (C21 ) is not in any ring (nr[170]=1)
+atom[171] (H36 ) is not in any ring (nr[171]=1)
+atom[172] (H37 ) is not in any ring (nr[172]=1)
+atom[173] (C22 ) is not in any ring (nr[173]=1)
+atom[174] (H38 ) is not in any ring (nr[174]=1)
+atom[175] (H39 ) is not in any ring (nr[175]=1)
+atom[176] (C23 ) is not in any ring (nr[176]=1)
+atom[177] (H40 ) is not in any ring (nr[177]=1)
+atom[178] (H41 ) is not in any ring (nr[178]=1)
+atom[179] (C24 ) is not in any ring (nr[179]=1)
+atom[180] (H42 ) is not in any ring (nr[180]=1)
+atom[181] (H43 ) is not in any ring (nr[181]=1)
+atom[182] (C25 ) is not in any ring (nr[182]=1)
+atom[183] (H44 ) is not in any ring (nr[183]=1)
+atom[184] (H45 ) is not in any ring (nr[184]=1)
+atom[185] (C26 ) is not in any ring (nr[185]=1)
+atom[186] (H46 ) is not in any ring (nr[186]=1)
+atom[187] (H47 ) is not in any ring (nr[187]=1)
+atom[188] (C27 ) is not in any ring (nr[188]=1)
+atom[189] (H48 ) is not in any ring (nr[189]=1)
+atom[190] (H49 ) is not in any ring (nr[190]=1)
+atom[191] (C28 ) is not in any ring (nr[191]=1)
+atom[192] (H50 ) is not in any ring (nr[192]=1)
+atom[193] (H51 ) is not in any ring (nr[193]=1)
+atom[194] (C29 ) is not in any ring (nr[194]=1)
+atom[195] (H52 ) is not in any ring (nr[195]=1)
+atom[196] (H53 ) is not in any ring (nr[196]=1)
+atom[197] (C30 ) is not in any ring (nr[197]=1)
+atom[198] (H54 ) is not in any ring (nr[198]=1)
+atom[199] (H55 ) is not in any ring (nr[199]=1)
+atom[200] (C31 ) is not in any ring (nr[200]=1)
+atom[201] (H56 ) is not in any ring (nr[201]=1)
+atom[202] (H57 ) is not in any ring (nr[202]=1)
+atom[203] (C32 ) is not in any ring (nr[203]=1)
+atom[204] (H58 ) is not in any ring (nr[204]=1)
+atom[205] (H59 ) is not in any ring (nr[205]=1)
+atom[206] (C33 ) is not in any ring (nr[206]=1)
+atom[207] (H60 ) is not in any ring (nr[207]=1)
+atom[208] (H61 ) is not in any ring (nr[208]=1)
+atom[209] (C34 ) is not in any ring (nr[209]=1)
+atom[210] (H62 ) is not in any ring (nr[210]=1)
+atom[211] (H63 ) is not in any ring (nr[211]=1)
+atom[212] (C35 ) is not in any ring (nr[212]=1)
+atom[213] (H64 ) is not in any ring (nr[213]=1)
+atom[214] (H65 ) is not in any ring (nr[214]=1)
+atom[215] (C36 ) is not in any ring (nr[215]=1)
+atom[216] (H66 ) is not in any ring (nr[216]=1)
+atom[217] (H67 ) is not in any ring (nr[217]=1)
+atom[218] (C37 ) is not in any ring (nr[218]=1)
+atom[219] (H68 ) is not in any ring (nr[219]=1)
+atom[220] (H69 ) is not in any ring (nr[220]=1)
+atom[221] (C38 ) is not in any ring (nr[221]=1)
+atom[222] (H70 ) is not in any ring (nr[222]=1)
+atom[223] (H71 ) is not in any ring (nr[223]=1)
+atom[224] (C39 ) is not in any ring (nr[224]=1)
+atom[225] (H72 ) is not in any ring (nr[225]=1)
+atom[226] (H73 ) is not in any ring (nr[226]=1)
+atom[227] (C40 ) is not in any ring (nr[227]=1)
+atom[228] (H74 ) is not in any ring (nr[228]=1)
+atom[229] (H75 ) is not in any ring (nr[229]=1)
+atom[230] (C41 ) is not in any ring (nr[230]=1)
+atom[231] (H76 ) is not in any ring (nr[231]=1)
+atom[232] (H77 ) is not in any ring (nr[232]=1)
+atom[233] (C42 ) is not in any ring (nr[233]=1)
+atom[234] (H78 ) is not in any ring (nr[234]=1)
+atom[235] (H79 ) is not in any ring (nr[235]=1)
+atom[236] (C43 ) is not in any ring (nr[236]=1)
+atom[237] (H80 ) is not in any ring (nr[237]=1)
+atom[238] (H81 ) is not in any ring (nr[238]=1)
+atom[239] (H82 ) is not in any ring (nr[239]=1)
+
+====================================================================================
+-------------------------------aromatic property------------------------------------
+atom[62] (C60 ) is in 1 pure aliphatic ring, which is/are made of sp3 carbons (AR5)
+atom[64] (C58 ) is in 1 pure aliphatic ring, which is/are made of sp3 carbons (AR5)
+atom[66] (C59 ) is in 1 pure aliphatic ring, which is/are made of sp3 carbons (AR5)
+atom[111] (C18 ) is in 1 pure aliphatic ring, which is/are made of sp3 carbons (AR5)
+atom[113] (C17 ) is in 1 pure aliphatic ring, which is/are made of sp3 carbons (AR5)
+atom[115] (C19 ) is in 1 pure aliphatic ring, which is/are made of sp3 carbons (AR5)
+
+====================================================================================
+-------------------------------electronic property----------------------------------
+atom [ 1] (HH15) is not an electron-withdrew atom
+atom [ 2] (C80 ) is not an electron-withdrew atom
+atom [ 3] (H100) is not an electron-withdrew atom
+atom [ 4] (H101) is not an electron-withdrew atom
+atom [ 5] (C79 ) is not an electron-withdrew atom
+atom [ 6] (H102) is not an electron-withdrew atom
+atom [ 7] (H103) is not an electron-withdrew atom
+atom [ 8] (C78 ) is not an electron-withdrew atom
+atom [ 9] (HH14) is not an electron-withdrew atom
+atom [10] (H104) is not an electron-withdrew atom
+atom [11] (C77 ) is not an electron-withdrew atom
+atom [12] (H106) is not an electron-withdrew atom
+atom [13] (H107) is not an electron-withdrew atom
+atom [14] (C76 ) is not an electron-withdrew atom
+atom [15] (H108) is not an electron-withdrew atom
+atom [16] (H109) is not an electron-withdrew atom
+atom [17] (C75 ) is not an electron-withdrew atom
+atom [18] (H110) is not an electron-withdrew atom
+atom [19] (H111) is not an electron-withdrew atom
+atom [20] (C74 ) is not an electron-withdrew atom
+atom [21] (H112) is not an electron-withdrew atom
+atom [22] (H113) is not an electron-withdrew atom
+atom [23] (C73 ) is not an electron-withdrew atom
+atom [24] (HH13) is not an electron-withdrew atom
+atom [25] (H114) is not an electron-withdrew atom
+atom [26] (C72 ) is not an electron-withdrew atom
+atom [27] (H115) is not an electron-withdrew atom
+atom [28] (H116) is not an electron-withdrew atom
+atom [29] (C71 ) is not an electron-withdrew atom
+atom [30] (H117) is not an electron-withdrew atom
+atom [31] (H118) is not an electron-withdrew atom
+atom [32] (C70 ) is not an electron-withdrew atom
+atom [33] (H119) is not an electron-withdrew atom
+atom [34] (H120) is not an electron-withdrew atom
+atom [35] (C69 ) is not an electron-withdrew atom
+atom [36] (H121) is not an electron-withdrew atom
+atom [37] (H122) is not an electron-withdrew atom
+atom [38] (C68 ) is not an electron-withdrew atom
+atom [39] (HH12) is not an electron-withdrew atom
+atom [40] (H123) is not an electron-withdrew atom
+atom [41] (C67 ) is not an electron-withdrew atom
+atom [42] (H124) is not an electron-withdrew atom
+atom [43] (H125) is not an electron-withdrew atom
+atom [44] (C66 ) is not an electron-withdrew atom
+atom [45] (H126) is not an electron-withdrew atom
+atom [46] (H127) is not an electron-withdrew atom
+atom [47] (C65 ) is not an electron-withdrew atom
+atom [48] (H128) is not an electron-withdrew atom
+atom [49] (H129) is not an electron-withdrew atom
+atom [50] (C64 ) is not an electron-withdrew atom
+atom [51] (H130) is not an electron-withdrew atom
+atom [52] (H131) is not an electron-withdrew atom
+atom [53] (C63 ) is not an electron-withdrew atom
+atom [54] (HH11) is not an electron-withdrew atom
+atom [55] (H132) is not an electron-withdrew atom
+atom [56] (C62 ) is not an electron-withdrew atom
+atom [57] (H133) is not an electron-withdrew atom
+atom [58] (H134) is not an electron-withdrew atom
+atom [59] (C61 ) is not an electron-withdrew atom
+atom [60] (H135) is not an electron-withdrew atom
+atom [61] (H136) is not an electron-withdrew atom
+atom [62] (C60 ) is not an electron-withdrew atom
+atom [63] (H137) is not an electron-withdrew atom
+atom [64] (C58 ) is not an electron-withdrew atom
+atom [65] (H138) is not an electron-withdrew atom
+atom [66] (C59 ) is not an electron-withdrew atom
+atom [67] (H139) is not an electron-withdrew atom
+atom [68] (H140) is not an electron-withdrew atom
+atom [69] (C57 ) is not an electron-withdrew atom
+atom [70] (HH10) is not an electron-withdrew atom
+atom [71] (H141) is not an electron-withdrew atom
+atom [72] (C56 ) is not an electron-withdrew atom
+atom [73] (H142) is not an electron-withdrew atom
+atom [74] (H143) is not an electron-withdrew atom
+atom [75] (C55 ) is not an electron-withdrew atom
+atom [76] (H144) is not an electron-withdrew atom
+atom [77] (H145) is not an electron-withdrew atom
+atom [78] (C54 ) is not an electron-withdrew atom
+atom [79] (H146) is not an electron-withdrew atom
+atom [80] (H147) is not an electron-withdrew atom
+atom [81] (C53 ) is not an electron-withdrew atom
+atom [82] (H148) is not an electron-withdrew atom
+atom [83] (H149) is not an electron-withdrew atom
+atom [84] (C52 ) is not an electron-withdrew atom
+atom [85] (H99 ) is not an electron-withdrew atom
+atom [86] (H150) is not an electron-withdrew atom
+atom [87] (C51 ) is not an electron-withdrew atom
+atom [88] (H97 ) is not an electron-withdrew atom
+atom [89] (H98 ) is not an electron-withdrew atom
+atom [90] (C50 ) is not an electron-withdrew atom
+atom [91] (H95 ) is not an electron-withdrew atom
+atom [92] (H96 ) is not an electron-withdrew atom
+atom [93] (C49 ) is not an electron-withdrew atom
+atom [94] (H93 ) is not an electron-withdrew atom
+atom [95] (H94 ) is not an electron-withdrew atom
+atom [96] (C48 ) is not an electron-withdrew atom
+atom [97] (H91 ) is not an electron-withdrew atom
+atom [98] (H92 ) is not an electron-withdrew atom
+atom [99] (C47 ) is not an electron-withdrew atom
+atom [100] (H89 ) is not an electron-withdrew atom
+atom [101] (H90 ) is not an electron-withdrew atom
+atom [102] (C46 ) is not an electron-withdrew atom
+atom [103] (H87 ) is not an electron-withdrew atom
+atom [104] (H88 ) is not an electron-withdrew atom
+atom [105] (C45 ) is not an electron-withdrew atom
+atom [106] (H85 ) is not an electron-withdrew atom
+atom [107] (H86 ) is not an electron-withdrew atom
+atom [108] (C44 ) is not an electron-withdrew atom
+atom [109] (H83 ) is not an electron-withdrew atom
+atom [110] (H84 ) is not an electron-withdrew atom
+atom [111] (C18 ) is not an electron-withdrew atom
+atom [112] (H31 ) is not an electron-withdrew atom
+atom [113] (C17 ) is not an electron-withdrew atom
+atom [114] (H30 ) is not an electron-withdrew atom
+atom [115] (C19 ) is not an electron-withdrew atom
+atom [116] (H32 ) is not an electron-withdrew atom
+atom [117] (H33 ) is not an electron-withdrew atom
+atom [118] (C16 ) is not an electron-withdrew atom
+atom [119] (H28 ) is not an electron-withdrew atom
+atom [120] (H29 ) is not an electron-withdrew atom
+atom [121] (C15 ) is not an electron-withdrew atom
+atom [122] (H26 ) is not an electron-withdrew atom
+atom [123] (H27 ) is not an electron-withdrew atom
+atom [124] (C14 ) is not an electron-withdrew atom
+atom [125] (H24 ) is not an electron-withdrew atom
+atom [126] (H25 ) is not an electron-withdrew atom
+atom [127] (C13 ) is not an electron-withdrew atom
+atom [128] (H22 ) is not an electron-withdrew atom
+atom [129] (H23 ) is not an electron-withdrew atom
+atom [130] (C12 ) is not an electron-withdrew atom
+atom [131] (H20 ) is not an electron-withdrew atom
+atom [132] (H21 ) is not an electron-withdrew atom
+atom [133] (C11 ) is not an electron-withdrew atom
+atom [134] (H18 ) is not an electron-withdrew atom
+atom [135] (H19 ) is not an electron-withdrew atom
+atom [136] (C10 ) is not an electron-withdrew atom
+atom [137] (H16 ) is not an electron-withdrew atom
+atom [138] (H17 ) is not an electron-withdrew atom
+atom [139] (C9  ) is not an electron-withdrew atom
+atom [140] (H14 ) is not an electron-withdrew atom
+atom [141] (H15 ) is not an electron-withdrew atom
+atom [142] (C8  ) is not an electron-withdrew atom
+atom [143] (H12 ) is not an electron-withdrew atom
+atom [144] (H13 ) is not an electron-withdrew atom
+atom [145] (C7  ) is not an electron-withdrew atom
+atom [146] (H10 ) is not an electron-withdrew atom
+atom [147] (H11 ) is not an electron-withdrew atom
+atom [148] (C6  ) is not an electron-withdrew atom
+atom [149] (H8  ) is not an electron-withdrew atom
+atom [150] (H9  ) is not an electron-withdrew atom
+atom [151] (C5  ) is not an electron-withdrew atom
+atom [152] (H6  ) is not an electron-withdrew atom
+atom [153] (H7  ) is not an electron-withdrew atom
+atom [154] (C4  ) is not an electron-withdrew atom
+atom [155] (H4  ) is not an electron-withdrew atom
+atom [156] (H5  ) is not an electron-withdrew atom
+atom [157] (C2  ) is not an electron-withdrew atom
+atom [158] (H2  ) is not an electron-withdrew atom
+atom [159] (O3  ) is an electron-withdrew atom
+atom [160] (H3  ) is not an electron-withdrew atom
+atom [161] (C1  ) is not an electron-withdrew atom
+atom [162] (H1  ) is not an electron-withdrew atom
+atom [163] (C81 ) is not an electron-withdrew atom
+atom [164] (O82 ) is an electron-withdrew atom
+atom [165] (O83 ) is an electron-withdrew atom
+atom [166] (H105) is not an electron-withdrew atom
+atom [167] (C20 ) is not an electron-withdrew atom
+atom [168] (H34 ) is not an electron-withdrew atom
+atom [169] (H35 ) is not an electron-withdrew atom
+atom [170] (C21 ) is not an electron-withdrew atom
+atom [171] (H36 ) is not an electron-withdrew atom
+atom [172] (H37 ) is not an electron-withdrew atom
+atom [173] (C22 ) is not an electron-withdrew atom
+atom [174] (H38 ) is not an electron-withdrew atom
+atom [175] (H39 ) is not an electron-withdrew atom
+atom [176] (C23 ) is not an electron-withdrew atom
+atom [177] (H40 ) is not an electron-withdrew atom
+atom [178] (H41 ) is not an electron-withdrew atom
+atom [179] (C24 ) is not an electron-withdrew atom
+atom [180] (H42 ) is not an electron-withdrew atom
+atom [181] (H43 ) is not an electron-withdrew atom
+atom [182] (C25 ) is not an electron-withdrew atom
+atom [183] (H44 ) is not an electron-withdrew atom
+atom [184] (H45 ) is not an electron-withdrew atom
+atom [185] (C26 ) is not an electron-withdrew atom
+atom [186] (H46 ) is not an electron-withdrew atom
+atom [187] (H47 ) is not an electron-withdrew atom
+atom [188] (C27 ) is not an electron-withdrew atom
+atom [189] (H48 ) is not an electron-withdrew atom
+atom [190] (H49 ) is not an electron-withdrew atom
+atom [191] (C28 ) is not an electron-withdrew atom
+atom [192] (H50 ) is not an electron-withdrew atom
+atom [193] (H51 ) is not an electron-withdrew atom
+atom [194] (C29 ) is not an electron-withdrew atom
+atom [195] (H52 ) is not an electron-withdrew atom
+atom [196] (H53 ) is not an electron-withdrew atom
+atom [197] (C30 ) is not an electron-withdrew atom
+atom [198] (H54 ) is not an electron-withdrew atom
+atom [199] (H55 ) is not an electron-withdrew atom
+atom [200] (C31 ) is not an electron-withdrew atom
+atom [201] (H56 ) is not an electron-withdrew atom
+atom [202] (H57 ) is not an electron-withdrew atom
+atom [203] (C32 ) is not an electron-withdrew atom
+atom [204] (H58 ) is not an electron-withdrew atom
+atom [205] (H59 ) is not an electron-withdrew atom
+atom [206] (C33 ) is not an electron-withdrew atom
+atom [207] (H60 ) is not an electron-withdrew atom
+atom [208] (H61 ) is not an electron-withdrew atom
+atom [209] (C34 ) is not an electron-withdrew atom
+atom [210] (H62 ) is not an electron-withdrew atom
+atom [211] (H63 ) is not an electron-withdrew atom
+atom [212] (C35 ) is not an electron-withdrew atom
+atom [213] (H64 ) is not an electron-withdrew atom
+atom [214] (H65 ) is not an electron-withdrew atom
+atom [215] (C36 ) is not an electron-withdrew atom
+atom [216] (H66 ) is not an electron-withdrew atom
+atom [217] (H67 ) is not an electron-withdrew atom
+atom [218] (C37 ) is not an electron-withdrew atom
+atom [219] (H68 ) is not an electron-withdrew atom
+atom [220] (H69 ) is not an electron-withdrew atom
+atom [221] (C38 ) is not an electron-withdrew atom
+atom [222] (H70 ) is not an electron-withdrew atom
+atom [223] (H71 ) is not an electron-withdrew atom
+atom [224] (C39 ) is not an electron-withdrew atom
+atom [225] (H72 ) is not an electron-withdrew atom
+atom [226] (H73 ) is not an electron-withdrew atom
+atom [227] (C40 ) is not an electron-withdrew atom
+atom [228] (H74 ) is not an electron-withdrew atom
+atom [229] (H75 ) is not an electron-withdrew atom
+atom [230] (C41 ) is not an electron-withdrew atom
+atom [231] (H76 ) is not an electron-withdrew atom
+atom [232] (H77 ) is not an electron-withdrew atom
+atom [233] (C42 ) is not an electron-withdrew atom
+atom [234] (H78 ) is not an electron-withdrew atom
+atom [235] (H79 ) is not an electron-withdrew atom
+atom [236] (C43 ) is not an electron-withdrew atom
+atom [237] (H80 ) is not an electron-withdrew atom
+atom [238] (H81 ) is not an electron-withdrew atom
+atom [239] (H82 ) is not an electron-withdrew atom
+
+====================================================================================
+--------------------------------connectivity property-------------------------------
+atom[ 1] (HH15)     2   C80
+atom[ 2] (C80 )     1  HH15
+atom[ 2] (C80 )     4  H101
+atom[ 2] (C80 )     3  H100
+atom[ 2] (C80 )     5   C79
+atom[ 3] (H100)     2   C80
+atom[ 4] (H101)     2   C80
+atom[ 5] (C79 )     2   C80
+atom[ 5] (C79 )     7  H103
+atom[ 5] (C79 )     6  H102
+atom[ 5] (C79 )     8   C78
+atom[ 6] (H102)     5   C79
+atom[ 7] (H103)     5   C79
+atom[ 8] (C78 )     5   C79
+atom[ 8] (C78 )     9  HH14
+atom[ 8] (C78 )    10  H104
+atom[ 8] (C78 )    11   C77
+atom[ 9] (HH14)     8   C78
+atom[10] (H104)     8   C78
+atom[11] (C77 )     8   C78
+atom[11] (C77 )    13  H107
+atom[11] (C77 )    12  H106
+atom[11] (C77 )    14   C76
+atom[12] (H106)    11   C77
+atom[13] (H107)    11   C77
+atom[14] (C76 )    11   C77
+atom[14] (C76 )    15  H108
+atom[14] (C76 )    16  H109
+atom[14] (C76 )    17   C75
+atom[15] (H108)    14   C76
+atom[16] (H109)    14   C76
+atom[17] (C75 )    14   C76
+atom[17] (C75 )    19  H111
+atom[17] (C75 )    18  H110
+atom[17] (C75 )    20   C74
+atom[18] (H110)    17   C75
+atom[19] (H111)    17   C75
+atom[20] (C74 )    17   C75
+atom[20] (C74 )    21  H112
+atom[20] (C74 )    22  H113
+atom[20] (C74 )    23   C73
+atom[21] (H112)    20   C74
+atom[22] (H113)    20   C74
+atom[23] (C73 )    20   C74
+atom[23] (C73 )    24  HH13
+atom[23] (C73 )    25  H114
+atom[23] (C73 )    26   C72
+atom[24] (HH13)    23   C73
+atom[25] (H114)    23   C73
+atom[26] (C72 )    23   C73
+atom[26] (C72 )    28  H116
+atom[26] (C72 )    27  H115
+atom[26] (C72 )    29   C71
+atom[27] (H115)    26   C72
+atom[28] (H116)    26   C72
+atom[29] (C71 )    26   C72
+atom[29] (C71 )    30  H117
+atom[29] (C71 )    31  H118
+atom[29] (C71 )    32   C70
+atom[30] (H117)    29   C71
+atom[31] (H118)    29   C71
+atom[32] (C70 )    29   C71
+atom[32] (C70 )    34  H120
+atom[32] (C70 )    33  H119
+atom[32] (C70 )    35   C69
+atom[33] (H119)    32   C70
+atom[34] (H120)    32   C70
+atom[35] (C69 )    32   C70
+atom[35] (C69 )    37  H122
+atom[35] (C69 )    36  H121
+atom[35] (C69 )    38   C68
+atom[36] (H121)    35   C69
+atom[37] (H122)    35   C69
+atom[38] (C68 )    35   C69
+atom[38] (C68 )    40  H123
+atom[38] (C68 )    39  HH12
+atom[38] (C68 )    41   C67
+atom[39] (HH12)    38   C68
+atom[40] (H123)    38   C68
+atom[41] (C67 )    38   C68
+atom[41] (C67 )    43  H125
+atom[41] (C67 )    42  H124
+atom[41] (C67 )    44   C66
+atom[42] (H124)    41   C67
+atom[43] (H125)    41   C67
+atom[44] (C66 )    41   C67
+atom[44] (C66 )    45  H126
+atom[44] (C66 )    46  H127
+atom[44] (C66 )    47   C65
+atom[45] (H126)    44   C66
+atom[46] (H127)    44   C66
+atom[47] (C65 )    44   C66
+atom[47] (C65 )    49  H129
+atom[47] (C65 )    48  H128
+atom[47] (C65 )    50   C64
+atom[48] (H128)    47   C65
+atom[49] (H129)    47   C65
+atom[50] (C64 )    47   C65
+atom[50] (C64 )    51  H130
+atom[50] (C64 )    52  H131
+atom[50] (C64 )    53   C63
+atom[51] (H130)    50   C64
+atom[52] (H131)    50   C64
+atom[53] (C63 )    50   C64
+atom[53] (C63 )    54  HH11
+atom[53] (C63 )    55  H132
+atom[53] (C63 )    56   C62
+atom[54] (HH11)    53   C63
+atom[55] (H132)    53   C63
+atom[56] (C62 )    53   C63
+atom[56] (C62 )    57  H133
+atom[56] (C62 )    58  H134
+atom[56] (C62 )    59   C61
+atom[57] (H133)    56   C62
+atom[58] (H134)    56   C62
+atom[59] (C61 )    56   C62
+atom[59] (C61 )    60  H135
+atom[59] (C61 )    61  H136
+atom[59] (C61 )    62   C60
+atom[60] (H135)    59   C61
+atom[61] (H136)    59   C61
+atom[62] (C60 )    59   C61
+atom[62] (C60 )    63  H137
+atom[62] (C60 )    66   C59
+atom[62] (C60 )    64   C58
+atom[63] (H137)    62   C60
+atom[64] (C58 )    62   C60
+atom[64] (C58 )    66   C59
+atom[64] (C58 )    65  H138
+atom[64] (C58 )    69   C57
+atom[65] (H138)    64   C58
+atom[66] (C59 )    62   C60
+atom[66] (C59 )    68  H140
+atom[66] (C59 )    67  H139
+atom[66] (C59 )    64   C58
+atom[67] (H139)    66   C59
+atom[68] (H140)    66   C59
+atom[69] (C57 )    64   C58
+atom[69] (C57 )    71  H141
+atom[69] (C57 )    70  HH10
+atom[69] (C57 )    72   C56
+atom[70] (HH10)    69   C57
+atom[71] (H141)    69   C57
+atom[72] (C56 )    69   C57
+atom[72] (C56 )    74  H143
+atom[72] (C56 )    73  H142
+atom[72] (C56 )    75   C55
+atom[73] (H142)    72   C56
+atom[74] (H143)    72   C56
+atom[75] (C55 )    72   C56
+atom[75] (C55 )    77  H145
+atom[75] (C55 )    76  H144
+atom[75] (C55 )    78   C54
+atom[76] (H144)    75   C55
+atom[77] (H145)    75   C55
+atom[78] (C54 )    75   C55
+atom[78] (C54 )    79  H146
+atom[78] (C54 )    80  H147
+atom[78] (C54 )    81   C53
+atom[79] (H146)    78   C54
+atom[80] (H147)    78   C54
+atom[81] (C53 )    78   C54
+atom[81] (C53 )    82  H148
+atom[81] (C53 )    83  H149
+atom[81] (C53 )    84   C52
+atom[82] (H148)    81   C53
+atom[83] (H149)    81   C53
+atom[84] (C52 )    81   C53
+atom[84] (C52 )    85   H99
+atom[84] (C52 )    86  H150
+atom[84] (C52 )    87   C51
+atom[85] (H99 )    84   C52
+atom[86] (H150)    84   C52
+atom[87] (C51 )    84   C52
+atom[87] (C51 )    88   H97
+atom[87] (C51 )    89   H98
+atom[87] (C51 )    90   C50
+atom[88] (H97 )    87   C51
+atom[89] (H98 )    87   C51
+atom[90] (C50 )    87   C51
+atom[90] (C50 )    92   H96
+atom[90] (C50 )    91   H95
+atom[90] (C50 )    93   C49
+atom[91] (H95 )    90   C50
+atom[92] (H96 )    90   C50
+atom[93] (C49 )    90   C50
+atom[93] (C49 )    94   H93
+atom[93] (C49 )    95   H94
+atom[93] (C49 )    96   C48
+atom[94] (H93 )    93   C49
+atom[95] (H94 )    93   C49
+atom[96] (C48 )    93   C49
+atom[96] (C48 )    98   H92
+atom[96] (C48 )    97   H91
+atom[96] (C48 )    99   C47
+atom[97] (H91 )    96   C48
+atom[98] (H92 )    96   C48
+atom[99] (C47 )    96   C48
+atom[99] (C47 )   101   H90
+atom[99] (C47 )   100   H89
+atom[99] (C47 )   102   C46
+atom[100] (H89 )    99   C47
+atom[101] (H90 )    99   C47
+atom[102] (C46 )    99   C47
+atom[102] (C46 )   103   H87
+atom[102] (C46 )   104   H88
+atom[102] (C46 )   105   C45
+atom[103] (H87 )   102   C46
+atom[104] (H88 )   102   C46
+atom[105] (C45 )   102   C46
+atom[105] (C45 )   107   H86
+atom[105] (C45 )   106   H85
+atom[105] (C45 )   108   C44
+atom[106] (H85 )   105   C45
+atom[107] (H86 )   105   C45
+atom[108] (C44 )   105   C45
+atom[108] (C44 )   110   H84
+atom[108] (C44 )   111   C18
+atom[108] (C44 )   109   H83
+atom[109] (H83 )   108   C44
+atom[110] (H84 )   108   C44
+atom[111] (C18 )   108   C44
+atom[111] (C18 )   113   C17
+atom[111] (C18 )   112   H31
+atom[111] (C18 )   115   C19
+atom[112] (H31 )   111   C18
+atom[113] (C17 )   114   H30
+atom[113] (C17 )   118   C16
+atom[113] (C17 )   111   C18
+atom[113] (C17 )   115   C19
+atom[114] (H30 )   113   C17
+atom[115] (C19 )   113   C17
+atom[115] (C19 )   111   C18
+atom[115] (C19 )   116   H32
+atom[115] (C19 )   117   H33
+atom[116] (H32 )   115   C19
+atom[117] (H33 )   115   C19
+atom[118] (C16 )   119   H28
+atom[118] (C16 )   121   C15
+atom[118] (C16 )   113   C17
+atom[118] (C16 )   120   H29
+atom[119] (H28 )   118   C16
+atom[120] (H29 )   118   C16
+atom[121] (C15 )   124   C14
+atom[121] (C15 )   122   H26
+atom[121] (C15 )   118   C16
+atom[121] (C15 )   123   H27
+atom[122] (H26 )   121   C15
+atom[123] (H27 )   121   C15
+atom[124] (C14 )   126   H25
+atom[124] (C14 )   127   C13
+atom[124] (C14 )   125   H24
+atom[124] (C14 )   121   C15
+atom[125] (H24 )   124   C14
+atom[126] (H25 )   124   C14
+atom[127] (C13 )   130   C12
+atom[127] (C13 )   128   H22
+atom[127] (C13 )   124   C14
+atom[127] (C13 )   129   H23
+atom[128] (H22 )   127   C13
+atom[129] (H23 )   127   C13
+atom[130] (C12 )   132   H21
+atom[130] (C12 )   133   C11
+atom[130] (C12 )   131   H20
+atom[130] (C12 )   127   C13
+atom[131] (H20 )   130   C12
+atom[132] (H21 )   130   C12
+atom[133] (C11 )   136   C10
+atom[133] (C11 )   134   H18
+atom[133] (C11 )   130   C12
+atom[133] (C11 )   135   H19
+atom[134] (H18 )   133   C11
+atom[135] (H19 )   133   C11
+atom[136] (C10 )   139    C9
+atom[136] (C10 )   137   H16
+atom[136] (C10 )   138   H17
+atom[136] (C10 )   133   C11
+atom[137] (H16 )   136   C10
+atom[138] (H17 )   136   C10
+atom[139] (C9  )   142    C8
+atom[139] (C9  )   141   H15
+atom[139] (C9  )   140   H14
+atom[139] (C9  )   136   C10
+atom[140] (H14 )   139    C9
+atom[141] (H15 )   139    C9
+atom[142] (C8  )   145    C7
+atom[142] (C8  )   144   H13
+atom[142] (C8  )   143   H12
+atom[142] (C8  )   139    C9
+atom[143] (H12 )   142    C8
+atom[144] (H13 )   142    C8
+atom[145] (C7  )   148    C6
+atom[145] (C7  )   146   H10
+atom[145] (C7  )   147   H11
+atom[145] (C7  )   142    C8
+atom[146] (H10 )   145    C7
+atom[147] (H11 )   145    C7
+atom[148] (C6  )   151    C5
+atom[148] (C6  )   149    H8
+atom[148] (C6  )   150    H9
+atom[148] (C6  )   145    C7
+atom[149] (H8  )   148    C6
+atom[150] (H9  )   148    C6
+atom[151] (C5  )   154    C4
+atom[151] (C5  )   152    H6
+atom[151] (C5  )   153    H7
+atom[151] (C5  )   148    C6
+atom[152] (H6  )   151    C5
+atom[153] (H7  )   151    C5
+atom[154] (C4  )   157    C2
+atom[154] (C4  )   155    H4
+atom[154] (C4  )   156    H5
+atom[154] (C4  )   151    C5
+atom[155] (H4  )   154    C4
+atom[156] (H5  )   154    C4
+atom[157] (C2  )   158    H2
+atom[157] (C2  )   161    C1
+atom[157] (C2  )   159    O3
+atom[157] (C2  )   154    C4
+atom[158] (H2  )   157    C2
+atom[159] (O3  )   157    C2
+atom[159] (O3  )   160    H3
+atom[160] (H3  )   159    O3
+atom[161] (C1  )   167   C20
+atom[161] (C1  )   162    H1
+atom[161] (C1  )   157    C2
+atom[161] (C1  )   163   C81
+atom[162] (H1  )   161    C1
+atom[163] (C81 )   161    C1
+atom[163] (C81 )   164   O82
+atom[163] (C81 )   165   O83
+atom[164] (O82 )   163   C81
+atom[165] (O83 )   163   C81
+atom[165] (O83 )   166  H105
+atom[166] (H105)   165   O83
+atom[167] (C20 )   170   C21
+atom[167] (C20 )   169   H35
+atom[167] (C20 )   168   H34
+atom[167] (C20 )   161    C1
+atom[168] (H34 )   167   C20
+atom[169] (H35 )   167   C20
+atom[170] (C21 )   173   C22
+atom[170] (C21 )   171   H36
+atom[170] (C21 )   172   H37
+atom[170] (C21 )   167   C20
+atom[171] (H36 )   170   C21
+atom[172] (H37 )   170   C21
+atom[173] (C22 )   176   C23
+atom[173] (C22 )   175   H39
+atom[173] (C22 )   174   H38
+atom[173] (C22 )   170   C21
+atom[174] (H38 )   173   C22
+atom[175] (H39 )   173   C22
+atom[176] (C23 )   179   C24
+atom[176] (C23 )   177   H40
+atom[176] (C23 )   178   H41
+atom[176] (C23 )   173   C22
+atom[177] (H40 )   176   C23
+atom[178] (H41 )   176   C23
+atom[179] (C24 )   182   C25
+atom[179] (C24 )   181   H43
+atom[179] (C24 )   180   H42
+atom[179] (C24 )   176   C23
+atom[180] (H42 )   179   C24
+atom[181] (H43 )   179   C24
+atom[182] (C25 )   185   C26
+atom[182] (C25 )   184   H45
+atom[182] (C25 )   183   H44
+atom[182] (C25 )   179   C24
+atom[183] (H44 )   182   C25
+atom[184] (H45 )   182   C25
+atom[185] (C26 )   188   C27
+atom[185] (C26 )   186   H46
+atom[185] (C26 )   187   H47
+atom[185] (C26 )   182   C25
+atom[186] (H46 )   185   C26
+atom[187] (H47 )   185   C26
+atom[188] (C27 )   191   C28
+atom[188] (C27 )   190   H49
+atom[188] (C27 )   189   H48
+atom[188] (C27 )   185   C26
+atom[189] (H48 )   188   C27
+atom[190] (H49 )   188   C27
+atom[191] (C28 )   194   C29
+atom[191] (C28 )   192   H50
+atom[191] (C28 )   193   H51
+atom[191] (C28 )   188   C27
+atom[192] (H50 )   191   C28
+atom[193] (H51 )   191   C28
+atom[194] (C29 )   197   C30
+atom[194] (C29 )   195   H52
+atom[194] (C29 )   196   H53
+atom[194] (C29 )   191   C28
+atom[195] (H52 )   194   C29
+atom[196] (H53 )   194   C29
+atom[197] (C30 )   200   C31
+atom[197] (C30 )   199   H55
+atom[197] (C30 )   198   H54
+atom[197] (C30 )   194   C29
+atom[198] (H54 )   197   C30
+atom[199] (H55 )   197   C30
+atom[200] (C31 )   203   C32
+atom[200] (C31 )   201   H56
+atom[200] (C31 )   202   H57
+atom[200] (C31 )   197   C30
+atom[201] (H56 )   200   C31
+atom[202] (H57 )   200   C31
+atom[203] (C32 )   206   C33
+atom[203] (C32 )   204   H58
+atom[203] (C32 )   205   H59
+atom[203] (C32 )   200   C31
+atom[204] (H58 )   203   C32
+atom[205] (H59 )   203   C32
+atom[206] (C33 )   209   C34
+atom[206] (C33 )   208   H61
+atom[206] (C33 )   207   H60
+atom[206] (C33 )   203   C32
+atom[207] (H60 )   206   C33
+atom[208] (H61 )   206   C33
+atom[209] (C34 )   212   C35
+atom[209] (C34 )   211   H63
+atom[209] (C34 )   210   H62
+atom[209] (C34 )   206   C33
+atom[210] (H62 )   209   C34
+atom[211] (H63 )   209   C34
+atom[212] (C35 )   215   C36
+atom[212] (C35 )   213   H64
+atom[212] (C35 )   214   H65
+atom[212] (C35 )   209   C34
+atom[213] (H64 )   212   C35
+atom[214] (H65 )   212   C35
+atom[215] (C36 )   218   C37
+atom[215] (C36 )   217   H67
+atom[215] (C36 )   216   H66
+atom[215] (C36 )   212   C35
+atom[216] (H66 )   215   C36
+atom[217] (H67 )   215   C36
+atom[218] (C37 )   221   C38
+atom[218] (C37 )   219   H68
+atom[218] (C37 )   220   H69
+atom[218] (C37 )   215   C36
+atom[219] (H68 )   218   C37
+atom[220] (H69 )   218   C37
+atom[221] (C38 )   224   C39
+atom[221] (C38 )   222   H70
+atom[221] (C38 )   223   H71
+atom[221] (C38 )   218   C37
+atom[222] (H70 )   221   C38
+atom[223] (H71 )   221   C38
+atom[224] (C39 )   227   C40
+atom[224] (C39 )   226   H73
+atom[224] (C39 )   225   H72
+atom[224] (C39 )   221   C38
+atom[225] (H72 )   224   C39
+atom[226] (H73 )   224   C39
+atom[227] (C40 )   230   C41
+atom[227] (C40 )   229   H75
+atom[227] (C40 )   228   H74
+atom[227] (C40 )   224   C39
+atom[228] (H74 )   227   C40
+atom[229] (H75 )   227   C40
+atom[230] (C41 )   233   C42
+atom[230] (C41 )   231   H76
+atom[230] (C41 )   232   H77
+atom[230] (C41 )   227   C40
+atom[231] (H76 )   230   C41
+atom[232] (H77 )   230   C41
+atom[233] (C42 )   236   C43
+atom[233] (C42 )   235   H79
+atom[233] (C42 )   234   H78
+atom[233] (C42 )   230   C41
+atom[234] (H78 )   233   C42
+atom[235] (H79 )   233   C42
+atom[236] (C43 )   237   H80
+atom[236] (C43 )   239   H82
+atom[236] (C43 )   238   H81
+atom[236] (C43 )   233   C42
+atom[237] (H80 )   236   C43
+atom[238] (H81 )   236   C43
+atom[239] (H82 )   236   C43
+----------------------------------------END-----------------------------------------
+
