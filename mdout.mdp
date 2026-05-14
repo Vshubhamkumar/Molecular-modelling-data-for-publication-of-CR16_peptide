@@ -2,30 +2,30 @@
 ;	File 'mdout.mdp' was generated
 ;	By user: unknown (1000)
 ;	On host: ShuMus
-;	At date: Sat May  9 10:13:30 2026
+;	At date: Fri May  8 23:02:33 2026
 ;
 ;	Created by:
 ;	                     :-) GROMACS - gmx grompp, 2024.3 (-:
 ;	
 ;	Executable:   /usr/local/gromacs/bin/gmx
 ;	Data prefix:  /usr/local/gromacs
-;	Working dir:  /mnt/c/Users/ashra/OneDrive/Desktop/LIPID MEMBRANE/mdsimulationpeptidemembrane/sim_run/equil
+;	Working dir:  /mnt/c/Users/ashra/OneDrive/Desktop/LIPID MEMBRANE/mdsimulationpeptidemembrane/sim_run/ions
 ;	Command line:
-;	  gmx grompp -f npt1b.mdp -c npt1.gro -r npt1.gro -t npt1.cpt -p ../topology/topol.top -n ../analysis/index.ndx -o npt1b.tpr -maxwarn 5
+;	  gmx grompp -f ions.mdp -c ../em/em.gro -p ../topology/topol.top -o ions.tpr -maxwarn 5
 
 ; VARIOUS PREPROCESSING OPTIONS
 ; Preprocessor information: use cpp syntax.
 ; e.g.: -I/home/joe/doe -I/home/mary/roe
 include                  = 
 ; e.g.: -DPOSRES -DFLEXIBLE (note these variable names are case sensitive)
-define                   = -DPOSRES
+define                   = 
 
 ; RUN CONTROL PARAMETERS
-integrator               = md
+integrator               = steep
 ; Start time and timestep in ps
 tinit                    = 0
-dt                       = 0.002
-nsteps                   = 250000
+dt                       = 0.001
+nsteps                   = 0
 ; For exact run continuation or redoing part of a run
 init-step                = 0
 ; Part index is updated automatically on checkpointing (keeps files separate)
@@ -67,11 +67,11 @@ nstxout                  = 0
 nstvout                  = 0
 nstfout                  = 0
 ; Output frequency for energies to log file and energy file
-nstlog                   = 500
+nstlog                   = 1000
 nstcalcenergy            = 100
-nstenergy                = 500
+nstenergy                = 1000
 ; Output frequency and precision for .xtc file
-nstxout-compressed       = 5000
+nstxout-compressed       = 0
 compressed-x-precision   = 1000
 ; This selects the subset of atoms for the compressed
 ; trajectory file. You can select multiple groups. By
@@ -108,9 +108,9 @@ epsilon-r                = 1
 epsilon-rf               = 0
 ; Method for doing Van der Waals
 vdwtype                  = Cut-off
-vdw-modifier             = Force-switch
+vdw-modifier             = Potential-shift-Verlet
 ; cut-off lengths       
-rvdw-switch              = 1.0
+rvdw-switch              = 0
 rvdw                     = 1.2
 ; Apply long range dispersion corrections for Energy and Pressure
 DispCorr                 = no
@@ -137,23 +137,23 @@ implicit-solvent         = no
 ensemble-temperature-setting = auto
 ensemble-temperature     = -1
 ; Temperature coupling  
-tcoupl                   = V-rescale
+tcoupl                   = No
 nsttcouple               = -1
 nh-chain-length          = 10
 print-nose-hoover-chain-variables = no
 ; Groups to couple separately
-tc-grps                  = Protein_LIPID Water_and_ions
+tc-grps                  = 
 ; Time constant (ps) and reference temperature (K)
-tau_t                    = 0.1     0.1
-ref_t                    = 310     310
+tau-t                    = 
+ref-t                    = 
 ; pressure coupling     
-pcoupl                   = C-rescale
-pcoupltype               = semiisotropic
+pcoupl                   = No
+pcoupltype               = Isotropic
 nstpcouple               = -1
 ; Time constant (ps), compressibility (1/bar) and reference P (bar)
-tau_p                    = 5.0
-compressibility          = 4.5e-5  4.5e-5
-ref_p                    = 1.0     1.0
+tau-p                    = 5
+compressibility          = 
+ref-p                    = 
 ; Scaling of reference coordinates, No, All or COM
 refcoord-scaling         = No
 
@@ -173,26 +173,26 @@ annealing-time           =
 annealing-temp           = 
 
 ; GENERATE VELOCITIES FOR STARTUP RUN
-gen_vel                  = no
+gen-vel                  = no
 gen-temp                 = 300
-gen-seed                 = 1241493278
+gen-seed                 = 1542804927
 
 ; OPTIONS FOR BONDS    
-constraints              = h-bonds
+constraints              = none
 ; Type of constraint algorithm
-constraint_algorithm     = lincs
+constraint-algorithm     = Lincs
 ; Do not constrain the start configuration
-continuation             = yes
+continuation             = no
 ; Use successive overrelaxation to reduce the number of shake iterations
 Shake-SOR                = no
 ; Relative tolerance of shake
 shake-tol                = 0.0001
 ; Highest order in the expansion of the constraint coupling matrix
-lincs_order              = 4
+lincs-order              = 4
 ; Number of iterations in the final step of LINCS. 1 is fine for
 ; normal simulations, but use 2 to conserve energy in NVE runs.
 ; For energy minimization with constraints it should be 4 to 8.
-lincs_iter               = 1
+lincs-iter               = 1
 ; Lincs will write a warning to the stderr if in one step a bond
 ; rotates over more degrees than
 lincs-warnangle          = 30
