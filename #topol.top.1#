@@ -1,0 +1,31 @@
+;
+; Combined topology: Peptide + Mycolic Acid Membrane + Water
+; Force field: amber99sb-ildn (peptide) + GAFF2 (lipid)
+; Water: TIP3P
+;
+
+; Force field
+#include "amber99sb-ildn.ff/forcefield.itp"
+
+; ─── GAFF2 atom types for mycolic acid (must come BEFORE moleculetypes) ───
+#include "../lipid_param/MYC_atomtypes.itp"
+
+; ─── Peptide topology (extracted from pdb2gmx output) ───
+#include "peptide_only.itp"
+
+; ─── Mycolic acid lipid topology ───
+#include "../lipid_param/MYC.itp"
+
+; ─── Water topology ───
+#include "amber99sb-ildn.ff/tip3p.itp"
+
+; ─── Ions (will be added by genion) ───
+#include "amber99sb-ildn.ff/ions.itp"
+
+[ system ]
+Peptide + Mycolic Acid Membrane + Water
+
+[ molecules ]
+Protein_chain_A        1
+MYC                  128
+SOL                 4480
